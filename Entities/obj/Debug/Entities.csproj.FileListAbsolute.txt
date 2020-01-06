@@ -1,0 +1,10 @@
+C:\Users\b.gherman\source\repos\20Tema2\Entities\bin\Debug\Entities.dll
+C:\Users\b.gherman\source\repos\20Tema2\Entities\bin\Debug\Entities.pdb
+C:\Users\b.gherman\source\repos\20Tema2\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\b.gherman\source\repos\20Tema2\Entities\obj\Debug\Entities.dll
+C:\Users\b.gherman\source\repos\20Tema2\Entities\obj\Debug\Entities.pdb
+d:\work\repos\20tema2\Entities\bin\Debug\Entities.dll
+d:\work\repos\20tema2\Entities\bin\Debug\Entities.pdb
+d:\work\repos\20tema2\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+d:\work\repos\20tema2\Entities\obj\Debug\Entities.dll
+d:\work\repos\20tema2\Entities\obj\Debug\Entities.pdb
